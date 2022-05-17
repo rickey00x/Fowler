@@ -33,6 +33,7 @@ public class Rental {
                 break;
             default:
                 result = 0;
+                break;
         }
         return result;
     }
